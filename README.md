@@ -26,8 +26,8 @@ function runCanv(id){
 Uso con HTML Canvas
 ```
 <canvas id="contactEmail" data-color="#4caf50" data-background="#4c4c4c" data-text="QnlASmF2aWVydElOQw" width="110" height="20">
-		Si ves este texto, tu navegador, no soporta o está bloqueando Canvas y/o Javascript.
-	</canvas>
+	Si ves este texto, tu navegador, no soporta o está bloqueando Canvas y/o Javascript.
+</canvas>
 ```
 
 Ejecutar la funcion:
